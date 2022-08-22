@@ -1,0 +1,49 @@
+#cnt{
+    position:absolute;
+    width:100%;
+    top:25%;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+}
+
+#value{
+    position:absolute;
+    width:100%;
+    top:35%;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 120px;
+}
+
+.buttons-container{
+    display: block;
+    position:absolute;
+    width:100%;
+    top:65%;
+    text-align:center;
+    font-size: 1px;
+}
+
+#btn-decrease{
+    width: 150px;
+    height: 40px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border:purple solid;
+}
+
+#btn-increase{
+    width: 150px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border:purple solid;
+}
+
+#btn-reset{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border:purple solid;
+}
